@@ -56,7 +56,7 @@ span {
 
 .home {
     position: relative;
-    background-image: url("/imagenes/inicial.jpg");
+    background-image: url("imagenes/inicial.jpg");
     background-size: cover;
     background-position: center;
     height: 100vh;
